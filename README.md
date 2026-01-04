@@ -302,9 +302,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - B.Tech CSE | AI & Full-Stack Developer
 - Focus: Real-time systems, AI orchestration, applied ML
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@Umangi](https://github.com/Umanginigam)
 
 ---
 
